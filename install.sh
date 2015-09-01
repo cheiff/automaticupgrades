@@ -1,2 +1,2 @@
 #!/bin/bash
-cp securityupdate /etc/cron.weekly/
+cp automaticupgrades /etc/cron.weekly/
